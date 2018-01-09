@@ -1,2 +1,2 @@
 # Personal-Projects
-Fun projects I've worked on during my free time. 
+This is a Java Based game I made during my free time. 
